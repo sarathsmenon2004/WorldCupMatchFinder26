@@ -6,6 +6,7 @@ import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
 import { CountdownTimer } from "@/components/CountdownTimer";
 import { GeoDetectedCard } from "@/components/GeoDetectedCard";
 import { MobileNav } from "@/components/MobileNav";
+import { MotionFadeIn } from "@/components/MotionFadeIn";
 import { Navbar } from "@/components/Navbar";
 import { SearchBox } from "@/components/SearchBox";
 import { listCountries } from "@/lib/data";
@@ -21,7 +22,7 @@ export default async function Home() {
         <section className="stadium-grid relative overflow-hidden border-b border-border">
           <div className="absolute inset-0 bg-[radial-gradient(circle_at_top,rgba(0,230,118,0.22),transparent_38%),linear-gradient(to_bottom,rgba(10,10,10,0.25),var(--background))]" />
           <div className="relative mx-auto grid max-w-7xl gap-10 px-4 py-16 md:grid-cols-[1.15fr_0.85fr] md:py-24">
-            <div>
+            <MotionFadeIn>
               <div className="mb-6 inline-flex items-center gap-2 rounded-full border border-accent/50 px-4 py-2 text-xs uppercase tracking-[0.2em] text-accent">
                 <Trophy className="h-4 w-4" aria-hidden />
                 Verified broadcast directory
@@ -40,7 +41,7 @@ export default async function Home() {
               <div className="mt-32 md:mt-24">
                 <CountdownTimer />
               </div>
-            </div>
+            </MotionFadeIn>
             <div className="space-y-5">
               <AdSlot size="banner" />
               <GeoDetectedCard fallback={fallback} />

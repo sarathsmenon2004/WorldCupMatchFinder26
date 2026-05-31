@@ -1,0 +1,1878 @@
+[
+  {
+    "countryCode": "US",
+    "country": "United States",
+    "flag": "🇺🇸",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "FOX Sports",
+        "type": "both",
+        "isFree": false,
+        "url": "https://www.foxsports.com/",
+        "languages": [
+          "English"
+        ],
+        "notes": "US English-language coverage.",
+        "affiliateKey": "fubo"
+      },
+      {
+        "name": "Telemundo",
+        "type": "tv",
+        "isFree": false,
+        "url": "https://www.telemundo.com/",
+        "languages": [
+          "Spanish"
+        ],
+        "notes": "US Spanish-language coverage."
+      },
+      {
+        "name": "Peacock",
+        "type": "streaming",
+        "isFree": false,
+        "url": "https://example.com/peacock",
+        "languages": [
+          "Spanish"
+        ],
+        "notes": "Spanish-language streaming.",
+        "affiliateKey": "peacock"
+      }
+    ]
+  },
+  {
+    "countryCode": "GB",
+    "country": "United Kingdom",
+    "flag": "🇬🇧",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "BBC",
+        "type": "both",
+        "isFree": true,
+        "url": "https://www.bbc.co.uk/sport/football",
+        "languages": [
+          "English"
+        ],
+        "notes": "Free-to-air UK coverage."
+      },
+      {
+        "name": "ITV",
+        "type": "both",
+        "isFree": true,
+        "url": "https://www.itv.com/football",
+        "languages": [
+          "English"
+        ],
+        "notes": "Free-to-air UK coverage."
+      }
+    ]
+  },
+  {
+    "countryCode": "AU",
+    "country": "Australia",
+    "flag": "🇦🇺",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "SBS",
+        "type": "both",
+        "isFree": true,
+        "url": "https://www.sbs.com.au/sport",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "CA",
+    "country": "Canada",
+    "flag": "🇨🇦",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "CTV",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.tsn.ca/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "TSN",
+        "type": "both",
+        "isFree": false,
+        "url": "https://www.tsn.ca/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "RDS",
+        "type": "both",
+        "isFree": false,
+        "url": "https://www.tsn.ca/",
+        "languages": [
+          "French"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "MX",
+    "country": "Mexico",
+    "flag": "🇲🇽",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "TelevisaUnivision",
+        "type": "both",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "TV Azteca",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.tvazteca.com/aztecadeportes/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "ViX",
+        "type": "streaming",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "DE",
+    "country": "Germany",
+    "flag": "🇩🇪",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "ARD",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "ZDF",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "Magenta Sport",
+        "type": "streaming",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "FR",
+    "country": "France",
+    "flag": "🇫🇷",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "M6",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "beIN Sports",
+        "type": "both",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "BR",
+    "country": "Brazil",
+    "flag": "🇧🇷",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Grupo Globo",
+        "type": "both",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "CazeTV",
+        "type": "streaming",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "SBT",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "AR",
+    "country": "Argentina",
+    "flag": "🇦🇷",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Telefe",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "TyC Sports",
+        "type": "both",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "TV Publica",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "JP",
+    "country": "Japan",
+    "flag": "🇯🇵",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "NHK",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "DAZN",
+        "type": "streaming",
+        "isFree": false,
+        "url": "https://example.com/dazn",
+        "languages": [
+          "Japanese"
+        ],
+        "notes": "Streaming option.",
+        "affiliateKey": "dazn"
+      },
+      {
+        "name": "Nippon TV",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "ES",
+    "country": "Spain",
+    "flag": "🇪🇸",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "RTVE",
+        "type": "both",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "DAZN",
+        "type": "streaming",
+        "isFree": false,
+        "url": "https://example.com/dazn",
+        "languages": [
+          "Spanish"
+        ],
+        "notes": "Streaming option.",
+        "affiliateKey": "dazn"
+      }
+    ]
+  },
+  {
+    "countryCode": "IT",
+    "country": "Italy",
+    "flag": "🇮🇹",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "RAI",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "DAZN",
+        "type": "streaming",
+        "isFree": false,
+        "url": "https://example.com/dazn",
+        "languages": [
+          "Italian"
+        ],
+        "notes": "Streaming option.",
+        "affiliateKey": "dazn"
+      }
+    ]
+  },
+  {
+    "countryCode": "NL",
+    "country": "Netherlands",
+    "flag": "🇳🇱",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "NOS",
+        "type": "both",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "PT",
+    "country": "Portugal",
+    "flag": "🇵🇹",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Sport TV",
+        "type": "both",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "KR",
+    "country": "South Korea",
+    "flag": "🇰🇷",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "KBS",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "MBC",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "SBS",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "CN",
+    "country": "China",
+    "flag": "🇨🇳",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "CCTV",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "SG",
+    "country": "Singapore",
+    "flag": "🇸🇬",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Mediacorp",
+        "type": "both",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "ID",
+    "country": "Indonesia",
+    "flag": "🇮🇩",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "TVRI",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "ZA",
+    "country": "South Africa",
+    "flag": "🇿🇦",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "SABC",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "NG",
+    "country": "Nigeria",
+    "flag": "🇳🇬",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "DStv",
+        "type": "tv",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "SuperSport",
+        "type": "both",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "SA",
+    "country": "Saudi Arabia",
+    "flag": "🇸🇦",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "beIN Sports",
+        "type": "both",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "AE",
+    "country": "United Arab Emirates",
+    "flag": "🇦🇪",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "beIN Sports",
+        "type": "both",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "TR",
+    "country": "Turkey",
+    "flag": "🇹🇷",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "TRT",
+        "type": "both",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "PL",
+    "country": "Poland",
+    "flag": "🇵🇱",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "TVP",
+        "type": "both",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "IN",
+    "country": "India",
+    "flag": "🇮🇳",
+    "hasConfirmed": false,
+    "noConfirmedNote": "No verified live broadcaster is listed yet. Check FIFA's official channels and local rights announcements before match day.",
+    "status": "unconfirmed",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": []
+  },
+  {
+    "countryCode": "BD",
+    "country": "Bangladesh",
+    "flag": "🇧🇩",
+    "hasConfirmed": false,
+    "noConfirmedNote": "No verified live broadcaster is listed yet. Check FIFA's official channels and local rights announcements before match day.",
+    "status": "unconfirmed",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": []
+  },
+  {
+    "countryCode": "PK",
+    "country": "Pakistan",
+    "flag": "🇵🇰",
+    "hasConfirmed": false,
+    "noConfirmedNote": "No verified live broadcaster is listed yet. Check FIFA's official channels and local rights announcements before match day.",
+    "status": "unconfirmed",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": []
+  },
+  {
+    "countryCode": "NZ",
+    "country": "New Zealand",
+    "flag": "🇳🇿",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "TVNZ",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "TVNZ+",
+        "type": "streaming",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "BE",
+    "country": "Belgium",
+    "flag": "🇧🇪",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "VRT",
+        "type": "both",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "RTBF",
+        "type": "both",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "SE",
+    "country": "Sweden",
+    "flag": "🇸🇪",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "SVT",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "TV4",
+        "type": "both",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "NO",
+    "country": "Norway",
+    "flag": "🇳🇴",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "NRK",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "TV2",
+        "type": "both",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "DK",
+    "country": "Denmark",
+    "flag": "🇩🇰",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "DR",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "TV2",
+        "type": "both",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "FI",
+    "country": "Finland",
+    "flag": "🇫🇮",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Yle",
+        "type": "both",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "MTV3",
+        "type": "tv",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "GR",
+    "country": "Greece",
+    "flag": "🇬🇷",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "ERT",
+        "type": "both",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "CZ",
+    "country": "Czech Republic",
+    "flag": "🇨🇿",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Czech Television",
+        "type": "both",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "HU",
+    "country": "Hungary",
+    "flag": "🇭🇺",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "MTVA",
+        "type": "both",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "RO",
+    "country": "Romania",
+    "flag": "🇷🇴",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Antena",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "HR",
+    "country": "Croatia",
+    "flag": "🇭🇷",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "HRT",
+        "type": "both",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "RS",
+    "country": "Serbia",
+    "flag": "🇷🇸",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Arena Sport",
+        "type": "both",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "KZ",
+    "country": "Kazakhstan",
+    "flag": "🇰🇿",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "QAZTRK",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "KH",
+    "country": "Cambodia",
+    "flag": "🇰🇭",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Hang Meas",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "PH",
+    "country": "Philippines",
+    "flag": "🇵🇭",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Aleph Group",
+        "type": "both",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "HK",
+    "country": "Hong Kong",
+    "flag": "🇭🇰",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Now TV",
+        "type": "both",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "ViuTV",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "MO",
+    "country": "Macau",
+    "flag": "🇲🇴",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "TDM",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "MN",
+    "country": "Mongolia",
+    "flag": "🇲🇳",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "MME",
+        "type": "both",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "BO",
+    "country": "Bolivia",
+    "flag": "🇧🇴",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Red Uno",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "Unitel",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "CL",
+    "country": "Chile",
+    "flag": "🇨🇱",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Chilevision",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "CO",
+    "country": "Colombia",
+    "flag": "🇨🇴",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Caracol TV",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "Canal RCN",
+        "type": "tv",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "EC",
+    "country": "Ecuador",
+    "flag": "🇪🇨",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Teleamazonas",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "PE",
+    "country": "Peru",
+    "flag": "🇵🇪",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "America Television",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "PY",
+    "country": "Paraguay",
+    "flag": "🇵🇾",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Trece",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "Unicanal",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "CR",
+    "country": "Costa Rica",
+    "flag": "🇨🇷",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Teletica",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "HN",
+    "country": "Honduras",
+    "flag": "🇭🇳",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Televicentro",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "SV",
+    "country": "El Salvador",
+    "flag": "🇸🇻",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "TCS",
+        "type": "both",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "GT",
+    "country": "Guatemala",
+    "flag": "🇬🇹",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Chapin TV",
+        "type": "both",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "NI",
+    "country": "Nicaragua",
+    "flag": "🇳🇮",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Televideo",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "PA",
+    "country": "Panama",
+    "flag": "🇵🇦",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "RPC",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      },
+      {
+        "name": "TVN",
+        "type": "tv",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "NP",
+    "country": "Nepal",
+    "flag": "🇳🇵",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Acepro Media",
+        "type": "both",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "MV",
+    "country": "Maldives",
+    "flag": "🇲🇻",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "ICE Networks",
+        "type": "both",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "IR",
+    "country": "Iran",
+    "flag": "🇮🇷",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "IRIB TV3",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "IL",
+    "country": "Israel",
+    "flag": "🇮🇱",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "KAN",
+        "type": "both",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "RU",
+    "country": "Russia",
+    "flag": "🇷🇺",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Match TV",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "IS",
+    "country": "Iceland",
+    "flag": "🇮🇸",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "RUV",
+        "type": "both",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "MT",
+    "country": "Malta",
+    "flag": "🇲🇹",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "PBS",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "BG",
+    "country": "Bulgaria",
+    "flag": "🇧🇬",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "BNT",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "AL",
+    "country": "Albania",
+    "flag": "🇦🇱",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "TV Klan",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "GE",
+    "country": "Georgia",
+    "flag": "🇬🇪",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "GPB",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "AM",
+    "country": "Armenia",
+    "flag": "🇦🇲",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "AMPTV",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "AZ",
+    "country": "Azerbaijan",
+    "flag": "🇦🇿",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "ITV",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "FJ",
+    "country": "Fiji",
+    "flag": "🇫🇯",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "Fijian Broadcasting Corporation",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "NE",
+    "country": "Niger",
+    "flag": "🇳🇪",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "ORTN",
+        "type": "tv",
+        "isFree": true,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  },
+  {
+    "countryCode": "QA",
+    "country": "MENA Region",
+    "flag": "🌍",
+    "hasConfirmed": true,
+    "noConfirmedNote": null,
+    "status": "needs_review",
+    "sourceUrl": "https://www.fifa.com/en/tournaments/mens/worldcup/canadamexicousa2026",
+    "lastVerifiedAt": "2026-05-31",
+    "broadcasters": [
+      {
+        "name": "beIN Sports",
+        "type": "both",
+        "isFree": false,
+        "url": "https://www.fifa.com/",
+        "languages": [
+          "Local"
+        ],
+        "notes": "Rights/status should be rechecked before publication."
+      }
+    ]
+  }
+]

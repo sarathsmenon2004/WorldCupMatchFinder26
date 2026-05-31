@@ -1,0 +1,42 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  --background: #ffffff;
+  --foreground: #101410;
+  --surface: #f3f7f2;
+  --muted: #5f6f64;
+  --border: #d7e3d8;
+}
+
+.dark {
+  --background: #0a0a0a;
+  --foreground: #f5fff4;
+  --surface: #111811;
+  --muted: #a8b8aa;
+  --border: #243224;
+}
+
+* {
+  box-sizing: border-box;
+}
+
+body {
+  color: var(--foreground);
+  background: var(--background);
+  font-family: var(--font-geist-sans), Inter, system-ui, sans-serif;
+}
+
+@layer utilities {
+  .text-balance {
+    text-wrap: balance;
+  }
+
+  .stadium-grid {
+    background-image:
+      linear-gradient(rgba(0, 230, 118, 0.08) 1px, transparent 1px),
+      linear-gradient(90deg, rgba(0, 230, 118, 0.08) 1px, transparent 1px);
+    background-size: 42px 42px;
+  }
+}

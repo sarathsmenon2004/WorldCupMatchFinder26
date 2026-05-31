@@ -1,0 +1,254 @@
+[
+  {
+    "group": "A",
+    "teams": [
+      {
+        "name": "Mexico",
+        "flag": "🇲🇽"
+      },
+      {
+        "name": "South Africa",
+        "flag": "🇿🇦"
+      },
+      {
+        "name": "South Korea",
+        "flag": "🇰🇷"
+      },
+      {
+        "name": "Czechia",
+        "flag": "🇨🇿"
+      }
+    ]
+  },
+  {
+    "group": "B",
+    "teams": [
+      {
+        "name": "Canada",
+        "flag": "🇨🇦"
+      },
+      {
+        "name": "Switzerland",
+        "flag": "🇨🇭"
+      },
+      {
+        "name": "Qatar",
+        "flag": "🇶🇦"
+      },
+      {
+        "name": "Bosnia and Herzegovina",
+        "flag": "🇧🇦"
+      }
+    ]
+  },
+  {
+    "group": "C",
+    "teams": [
+      {
+        "name": "Brazil",
+        "flag": "🇧🇷"
+      },
+      {
+        "name": "Morocco",
+        "flag": "🇲🇦"
+      },
+      {
+        "name": "Haiti",
+        "flag": "🇭🇹"
+      },
+      {
+        "name": "Scotland",
+        "flag": "🏴"
+      }
+    ]
+  },
+  {
+    "group": "D",
+    "teams": [
+      {
+        "name": "United States",
+        "flag": "🇺🇸"
+      },
+      {
+        "name": "Paraguay",
+        "flag": "🇵🇾"
+      },
+      {
+        "name": "Australia",
+        "flag": "🇦🇺"
+      },
+      {
+        "name": "Turkiye",
+        "flag": "🇹🇷"
+      }
+    ]
+  },
+  {
+    "group": "E",
+    "teams": [
+      {
+        "name": "Germany",
+        "flag": "🇩🇪"
+      },
+      {
+        "name": "Curacao",
+        "flag": "🇨🇼"
+      },
+      {
+        "name": "Ivory Coast",
+        "flag": "🇨🇮"
+      },
+      {
+        "name": "Ecuador",
+        "flag": "🇪🇨"
+      }
+    ]
+  },
+  {
+    "group": "F",
+    "teams": [
+      {
+        "name": "Netherlands",
+        "flag": "🇳🇱"
+      },
+      {
+        "name": "Japan",
+        "flag": "🇯🇵"
+      },
+      {
+        "name": "Tunisia",
+        "flag": "🇹🇳"
+      },
+      {
+        "name": "Sweden",
+        "flag": "🇸🇪"
+      }
+    ]
+  },
+  {
+    "group": "G",
+    "teams": [
+      {
+        "name": "Belgium",
+        "flag": "🇧🇪"
+      },
+      {
+        "name": "Egypt",
+        "flag": "🇪🇬"
+      },
+      {
+        "name": "Iran",
+        "flag": "🇮🇷"
+      },
+      {
+        "name": "New Zealand",
+        "flag": "🇳🇿"
+      }
+    ]
+  },
+  {
+    "group": "H",
+    "teams": [
+      {
+        "name": "Spain",
+        "flag": "🇪🇸"
+      },
+      {
+        "name": "Cape Verde",
+        "flag": "🇨🇻"
+      },
+      {
+        "name": "Saudi Arabia",
+        "flag": "🇸🇦"
+      },
+      {
+        "name": "Uruguay",
+        "flag": "🇺🇾"
+      }
+    ]
+  },
+  {
+    "group": "I",
+    "teams": [
+      {
+        "name": "France",
+        "flag": "🇫🇷"
+      },
+      {
+        "name": "Senegal",
+        "flag": "🇸🇳"
+      },
+      {
+        "name": "Norway",
+        "flag": "🇳🇴"
+      },
+      {
+        "name": "Iraq",
+        "flag": "🇮🇶"
+      }
+    ]
+  },
+  {
+    "group": "J",
+    "teams": [
+      {
+        "name": "Argentina",
+        "flag": "🇦🇷"
+      },
+      {
+        "name": "Algeria",
+        "flag": "🇩🇿"
+      },
+      {
+        "name": "Austria",
+        "flag": "🇦🇹"
+      },
+      {
+        "name": "Jordan",
+        "flag": "🇯🇴"
+      }
+    ]
+  },
+  {
+    "group": "K",
+    "teams": [
+      {
+        "name": "Portugal",
+        "flag": "🇵🇹"
+      },
+      {
+        "name": "Uzbekistan",
+        "flag": "🇺🇿"
+      },
+      {
+        "name": "Colombia",
+        "flag": "🇨🇴"
+      },
+      {
+        "name": "DR Congo",
+        "flag": "🇨🇩"
+      }
+    ]
+  },
+  {
+    "group": "L",
+    "teams": [
+      {
+        "name": "England",
+        "flag": "🏴"
+      },
+      {
+        "name": "Croatia",
+        "flag": "🇭🇷"
+      },
+      {
+        "name": "Ghana",
+        "flag": "🇬🇭"
+      },
+      {
+        "name": "Panama",
+        "flag": "🇵🇦"
+      }
+    ]
+  }
+]

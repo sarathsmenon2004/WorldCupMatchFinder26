@@ -19,3 +19,9 @@ export const scheduleFilterSchema = z.object({
     ])
     .optional(),
 });
+
+export const notificationSignupSchema = z.object({
+  email: z.string().trim().email("Enter a valid email address"),
+  teamName: z.string().trim().min(1, "Select a team"),
+  notifyBeforeMatch: z.boolean(),
+});

@@ -9,6 +9,9 @@ export default function sitemap(): MetadataRoute.Sitemap {
     "/schedule",
     "/groups",
     "/traveler",
+    "/vpn",
+    "/about",
+    "/privacy",
     ...broadcasterData.map((country) => `/watch/${country.countryCode}`),
   ].map((path) => ({
     url: `${base}${path}`,

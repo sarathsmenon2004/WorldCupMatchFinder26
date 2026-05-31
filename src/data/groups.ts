@@ -77,3 +77,9 @@ export const groups = Object.entries(groupTeams).map(([group, teams]) => ({
   group,
   teams,
 }));
+
+export type TeamOption = { name: string; flag: string };
+
+export const allTeams: TeamOption[] = Object.values(groupTeams)
+  .flat()
+  .sort((a, b) => a.name.localeCompare(b.name));

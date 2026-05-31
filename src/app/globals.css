@@ -39,4 +39,17 @@ body {
       linear-gradient(90deg, rgba(0, 230, 118, 0.08) 1px, transparent 1px);
     background-size: 42px 42px;
   }
+
+  .score-ticker-track {
+    animation: score-ticker-scroll 40s linear infinite;
+  }
+
+  @keyframes score-ticker-scroll {
+    from {
+      transform: translateX(0);
+    }
+    to {
+      transform: translateX(-50%);
+    }
+  }
 }

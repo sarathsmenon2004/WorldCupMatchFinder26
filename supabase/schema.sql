@@ -52,3 +52,18 @@ create policy "public read countries" on public.countries for select using (true
 create policy "public read broadcasters" on public.broadcasters for select using (true);
 create policy "public read matches" on public.matches for select using (true);
 create policy "public read groups" on public.groups for select using (true);
+
+create table if not exists public.notification_signups (
+  id bigint generated always as identity primary key,
+  email text not null,
+  team_name text not null,
+  notify_before_match boolean not null default false,
+  created_at timestamptz not null default now()
+);
+
+alter table public.notification_signups enable row level security;
+
+create policy "public insert notification signups"
+  on public.notification_signups
+  for insert
+  with check (true);

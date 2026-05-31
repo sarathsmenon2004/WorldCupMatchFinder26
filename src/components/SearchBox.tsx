@@ -4,6 +4,7 @@ import { Search } from "lucide-react";
 import { useRouter } from "next/navigation";
 import { useMemo, useState } from "react";
 
+import { CountryFlag } from "@/components/CountryFlag";
 import type { CountryBroadcast } from "@/lib/types";
 
 export function SearchBox({ countries }: { countries: CountryBroadcast[] }) {
@@ -29,7 +30,7 @@ export function SearchBox({ countries }: { countries: CountryBroadcast[] }) {
   return (
     <div className="relative w-full">
       <div className="flex items-center rounded-full border border-accent/40 bg-background/95 px-5 py-3 shadow-2xl">
-        <Search className="mr-3 h-5 w-5 text-accent" aria-hidden />
+        <Search className="mr-3 h-5 w-5 shrink-0 text-accent" aria-hidden />
         <input
           value={query}
           onChange={(event) => setQuery(event.target.value)}
@@ -45,9 +46,13 @@ export function SearchBox({ countries }: { countries: CountryBroadcast[] }) {
             onClick={() => go(country.countryCode)}
             className="flex w-full items-center gap-3 px-4 py-3 text-left hover:bg-surface"
           >
-            <span className="text-xl">{country.flag}</span>
-            <span className="font-medium">{country.country}</span>
-            <span className="ml-auto text-xs uppercase text-muted">{country.countryCode}</span>
+            <CountryFlag
+              countryCode={country.countryCode}
+              emojiFallback={country.flag}
+              className="h-4 w-6 shrink-0"
+            />
+            <span className="min-w-0 flex-1 truncate font-medium">{country.country}</span>
+            <span className="shrink-0 text-xs uppercase text-muted">{country.countryCode}</span>
           </button>
         ))}
       </div>

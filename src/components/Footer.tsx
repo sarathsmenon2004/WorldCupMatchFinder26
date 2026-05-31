@@ -5,6 +5,9 @@ const footerLinks = [
   { href: "/schedule", label: "Schedule" },
   { href: "/groups", label: "Groups" },
   { href: "/traveler", label: "Traveler" },
+  { href: "/vpn", label: "VPN" },
+  { href: "/about", label: "About" },
+  { href: "/privacy", label: "Privacy" },
   { href: "https://www.fifa.com/", label: "FIFA", external: true },
 ];
 

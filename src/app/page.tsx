@@ -4,15 +4,18 @@ import Link from "next/link";
 import { AdSlot } from "@/components/AdSlot";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
 import { CountdownTimer } from "@/components/CountdownTimer";
+import { FavouriteTeamSection } from "@/components/FavouriteTeamSection";
 import { GeoDetectedCard } from "@/components/GeoDetectedCard";
 import { MobileNav } from "@/components/MobileNav";
 import { MotionFadeIn } from "@/components/MotionFadeIn";
 import { Navbar } from "@/components/Navbar";
+import { NotificationSignup } from "@/components/NotificationSignup";
 import { SearchBox } from "@/components/SearchBox";
-import { listCountries } from "@/lib/data";
+import { listCountries, listMatches } from "@/lib/data";
 
 export default async function Home() {
   const countries = await listCountries();
+  const matches = await listMatches();
   const fallback = countries.find((country) => country.countryCode === "US") ?? countries[0];
 
   return (
@@ -38,12 +41,14 @@ export default async function Home() {
               <div className="mt-8 max-w-3xl">
                 <SearchBox countries={countries} />
               </div>
-              <div className="mt-32 md:mt-24">
+              <div className="mt-10 md:mt-12">
                 <CountdownTimer />
               </div>
             </MotionFadeIn>
             <div className="space-y-5">
               <AdSlot size="banner" />
+              <FavouriteTeamSection matches={matches} />
+              <NotificationSignup />
               <GeoDetectedCard fallback={fallback} />
               <div className="rounded-card border border-border bg-surface p-5">
                 <h2 className="text-xl font-bold">Traveling?</h2>

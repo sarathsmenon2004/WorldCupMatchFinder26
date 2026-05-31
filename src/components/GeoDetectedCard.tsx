@@ -3,6 +3,7 @@
 import { useEffect, useState } from "react";
 
 import { BroadcasterCard } from "@/components/BroadcasterCard";
+import { CountryFlag } from "@/components/CountryFlag";
 import type { CountryBroadcast } from "@/lib/types";
 
 type GeoResponse = {
@@ -33,16 +34,21 @@ export function GeoDetectedCard({ fallback }: { fallback: CountryBroadcast }) {
 
   return (
     <section className="rounded-card border border-accent/40 bg-surface p-5">
-      <div className="mb-4 flex items-center justify-between gap-4">
-        <div>
+      <div className="mb-4 flex items-start justify-between gap-4">
+        <div className="min-w-0">
           <p className="text-xs uppercase tracking-[0.2em] text-accent">
             {loading ? "Detecting location" : "Detected country"}
           </p>
-          <h2 className="mt-1 text-2xl font-bold">
-            {country.flag} {country.country}
+          <h2 className="mt-1 flex items-center gap-3 text-2xl font-bold">
+            <CountryFlag
+              countryCode={country.countryCode}
+              emojiFallback={country.flag}
+              className="h-5 w-7 shrink-0"
+            />
+            <span className="truncate">{country.country}</span>
           </h2>
         </div>
-        <span className="rounded-full border border-border px-3 py-1 text-xs uppercase text-muted">
+        <span className="shrink-0 rounded-full border border-border px-3 py-1 text-xs uppercase text-muted">
           {country.status}
         </span>
       </div>

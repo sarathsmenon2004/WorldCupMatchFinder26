@@ -5,9 +5,11 @@ import { notFound } from "next/navigation";
 import { AdSlot } from "@/components/AdSlot";
 import { AffiliateDisclosure } from "@/components/AffiliateDisclosure";
 import { BroadcasterCard } from "@/components/BroadcasterCard";
+import { CountryFlag } from "@/components/CountryFlag";
 import { MatchList } from "@/components/MatchList";
 import { MobileNav } from "@/components/MobileNav";
 import { Navbar } from "@/components/Navbar";
+import { ShareButtons } from "@/components/ShareButtons";
 import { affiliateLinks } from "@/config/affiliates";
 import { broadcasterData } from "@/data/broadcasters";
 import { getCountryBroadcast, listMatches } from "@/lib/data";
@@ -58,13 +60,23 @@ export default async function CountryPage({
         <section>
           <div className="mb-8">
             <p className="text-sm uppercase tracking-[0.2em] text-accent">{country.status}</p>
-            <h1 className="mt-2 text-4xl font-black md:text-6xl">
-              {country.flag} Where to Watch in {country.country}
+            <h1 className="mt-2 flex flex-wrap items-center gap-3 text-4xl font-black md:text-6xl">
+            <CountryFlag
+              countryCode={country.countryCode}
+              emojiFallback={country.flag}
+              preferEmoji={country.countryCode === "QA"}
+              className="h-8 w-12 shrink-0 md:h-10 md:w-14"
+            />
+              <span>Where to Watch in {country.country}</span>
             </h1>
             <p className="mt-4 max-w-3xl text-muted">
               Last verified {country.lastVerifiedAt}. Rights can change; use
               source-labeled entries and official broadcaster pages before purchase.
             </p>
+            <ShareButtons
+              title={`Where to Watch World Cup 2026 in ${country.country}`}
+              url={`https://watchworldcup2026.com/watch/${country.countryCode}`}
+            />
           </div>
 
           {country.broadcasters.length > 0 ? (
